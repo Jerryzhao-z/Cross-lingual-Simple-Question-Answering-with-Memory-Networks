@@ -1,0 +1,14 @@
+{    
+    "train": "./corpus/trainset.txt",
+    "test": "./corpus/testset.txt",
+    "kb": "./facts/sum_facts.txt",
+    "symbols": "./intermediate/symbols.txt",
+    "vocabulary": "./intermediate/vocabulary.txt",
+    "label2tid": "./transform/film_item_reference.json",
+    "word2index": "./intermediate/word2index.json",
+    "symbol2index": "./intermediate/symbol2index.json",
+    "mid2label":"./transform/fb2m_mid2alias.json",
+    "imdbID2label":"./transform/film_reference_item.json",
+    "id2label":"./intermediate/IMDB_id2label.json",
+    "label2id": "./intermediate/IMDB_label2id.json"
+}
